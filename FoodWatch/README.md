@@ -1,6 +1,6 @@
-# Laurel
+# FoodWatch
 
-A landing page template.
+An app for our association, Hackathon 2023
 
 * [Getting started](#getting-started)
 
